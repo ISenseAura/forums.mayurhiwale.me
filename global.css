@@ -1,0 +1,14 @@
+.subtext {
+    font-size: 13px;;
+    color:gray
+}
+
+.sublink {
+    color:#3c58c5;
+    font-size:12px;
+    font-weight: 600;
+}
+
+html {
+    background-color: #100f0f;
+}
